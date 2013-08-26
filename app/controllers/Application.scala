@@ -6,7 +6,7 @@ import play.api.mvc._
 object Application extends Controller {
   
   def index = Action {
-    Ok("v 1")
+    Ok("v 2")
   }
   
   def test = Action {
