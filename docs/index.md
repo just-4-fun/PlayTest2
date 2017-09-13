@@ -2,9 +2,9 @@
 
 ![useful image-1]({{ site.url }}/assets/image.png)
 
-![useful image0](arrow.png)
+![ok image0](arrow.png)
 
-![useful image1](/arrow.png)
+![ok image1](/arrow.png)
 
 ![useful image2](docs/arrow.png)
 
@@ -20,9 +20,9 @@
 
 ![useful image8](http://just-4-fun.github.io/PlayTest2/blob/master/docs/arrow.png)
 
-![useful image9](http://just-4-fun.github.io/PlayTest2/arrow.png)
+![ok image9](http://just-4-fun.github.io/PlayTest2/arrow.png)
 
-![useful image0](http://just-4-fun.github.io/PlayTest2/arrow.png)
+![ok image0](http://just-4-fun.github.io/PlayTest2/arrow.png)
 
 ![useful image1](http://just-4-fun.github.io/PlayTest2/docs/arrow.png)
 
