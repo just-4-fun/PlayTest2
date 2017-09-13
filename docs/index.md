@@ -10,6 +10,6 @@
 
 [useful image](../docs/arrow.png)
 
-[useful image]({{ https://github.com/just-4-fun/PlayTest2 }}/images/arrow.png)
+[useful image]({{ https://github.com/just-4-fun/PlayTest2 }}/docs/arrow.png)
 
-[useful image](https://github.com/just-4-fun/PlayTest2/images/arrow.png)
+[useful image](https://github.com/just-4-fun/PlayTest2/docs/arrow.png)
